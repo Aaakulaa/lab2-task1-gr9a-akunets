@@ -1,5 +1,5 @@
 language = "c"
-run = "gcc -o labrabota2-1 /home/runner/lab2-task1-gr9a-akunets/src/main.c"
+run = "gcc -o labrabota2-1 /home/runner/lab2-task1-gr9a-akunets/src/main.c && ./labrabota2-1"
 modules = ["c-clang14"]
 
 [deployment]
