@@ -1,8 +1,9 @@
-/* hello.c */
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
 
-void main (void)
-{
-	printf ("Hello World\n");
-	printf ("Goodbye World\n");
+int main() {
+		printf("Программа запущена!\n");
+		return 0;
 }
